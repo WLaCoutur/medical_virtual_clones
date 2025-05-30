@@ -44,14 +44,4 @@ After years investigating cybercrime, I've designed a system that combines:
 - [ ] Hardware security module support
 - [ ] Mobile SDK
 
-## 🔧 Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/medical-virtual-clones.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run basic demo
-python demos/basic_clone_demo.py
